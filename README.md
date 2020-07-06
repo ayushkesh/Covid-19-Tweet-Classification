@@ -12,7 +12,7 @@
 * A glimpse of the __web app__:
 
 - ![GIF](covid19.gif)
-#### Link of the deployed model _https://heart-prediction-api.herokuapp.com_
+#### Link of the deployed model _https://covid-tweet-api.herokuapp.com/_
 
 <a name="overview"></a>
 ### Overview
