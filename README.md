@@ -16,10 +16,7 @@
 
 <a name="overview"></a>
 ### Overview
-Health care field has a vast amount of data, for processing those data certain techniques are used.
-Data mining is one of the techniques often used. Heart disease is the Leading cause of death worldwide.
-This System predicts the arising possibilities of Heart Disease.
-The outcomes of this system provide the chances of occurring heart disease.
+COVID-19 is an acute respiratory illness caused by the novel coronavirus severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Since its outbreak in China in December 2019, over 2,573,143 cases have been confirmed worldwide Although many people have presented with flu-like symptoms, widespread population testing is not yet available in most countries. Thus, it is important to identify the combination of symptoms most predictive of COVID-19, to help guide recommendations for self-isolation and prevent further spread of the disease2. Covid-19 tweet Classification App take Input from the user and predict weather the tweet is Covid-19 related or Not.
 
 #### Attribute Information
 - Age
