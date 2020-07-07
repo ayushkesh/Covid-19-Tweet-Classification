@@ -1,9 +1,9 @@
 # Covid-19-Tweet-Classification
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
+![NLTK](https://img.shields.io/badge/NLTK-3.4.5-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 1. [ Demo ](#demo)
 2. [ Overview ](#overview)
 3. [Description](#description)
-4. [ Installation](#install)
+4. [Installation](#install)
 4. [ Run ](#run)
 
 <a name="demo"></a>
@@ -16,30 +16,18 @@
 
 <a name="overview"></a>
 ### Overview
-COVID-19 is an acute respiratory illness caused by the novel coronavirus severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Since its outbreak in China in December 2019, over 2,573,143 cases have been confirmed worldwide Although many people have presented with flu-like symptoms, widespread population testing is not yet available in most countries. Thus, it is important to identify the combination of symptoms most predictive of COVID-19, to help guide recommendations for self-isolation and prevent further spread of the disease2. Covid-19 tweet Classification App take Input from the user and predict weather the tweet is Covid-19 related or Not.
+As lockdowns have been imposed across the globe in response to the COVID-19 pandemic, consumers have turned in huge numbers to digital channels for entertainment, information, education, and to stay in touch with family and friends. In combination with the rapid move for many to working from home, it's led to a whole new emphasis on the importance of the offerings that media companies and communications service providers.So to get rid of Spam, Covid-19 tweet Classification App take Input from the user and predict weather the tweet is Covid-19 related or Not.
 
 #### Attribute Information
-- Age
-- Sex
-- Chest pain type (4 values)
-- Resting blood pressure
-- Serum cholestoral in mg/dl
-- Fasting blood sugar > 120 mg/dl
-- Resting electrocardiographic results (values 0,1,2)
-- Maximum heart rate achieved
-- Exercise induced angina
-- Oldpeak = ST depression induced by exercise relative to rest
-- The slope of the peak exercise ST segment
-- Number of major vessels (0-3) colored by flourosopy
-- Thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
+- text (Contain Tweet Realted mix of Covid and Non Covid Related)
 
 ### Description
-- Dataset is collected from kaggle.com 
-- Data Cleaning, Data Visualization, EDA and model is built to predict Heart Disease
+- Dataset is collected from Tweepy 
+- Data Cleaning, Data Visualization, EDA and model is built by using various nltk tools and libraries.
 - Algorithms applied :
-  * __KNeighborsClassifier__
-  * __RandomForestClassifier__
-- The model is successfully built and has achieved the highest accuracy of __99.02%__
+  * __Logistic Regression__
+  * __MultinomialNaive Bayes__
+- The model is successfully built and has achieved the highest accuracy of __91.21%__ [ Link for the model ](#https://github.com/ayushkesh/Covid-19-Tweet-Classification/blob/master/covid-19%20tweeter.ipynb)
 
 ### Installation
 The Code is written in __Python 3.7.__ To install the required packages and libraries, run this command in the project directory after cloning the repository:
