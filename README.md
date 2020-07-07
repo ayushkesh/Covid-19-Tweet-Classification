@@ -19,7 +19,7 @@
 As lockdowns have been imposed across the globe in response to the COVID-19 pandemic, consumers have turned in huge numbers to digital channels for entertainment, information, education, and to stay in touch with family and friends. In combination with the rapid move for many to working from home, it's led to a whole new emphasis on the importance of the offerings that media companies and communications service providers.So to get rid of Spam, Covid-19 tweet Classification App take Input from the user and predict weather the tweet is Covid-19 related or Not.
 
 #### Attribute Information
-- text (Contain Tweet Realted mix of Covid and Non Covid Related)
+- text (Contain Tweet mix of Covid and Non Covid related tweets)
 
 ### Description
 - Dataset is collected from Tweepy 
