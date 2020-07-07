@@ -1,4 +1,4 @@
-# Covid-19-Tweet-Classification
+# __Covid-19-Tweet-Classification__
 ![NLTK](https://img.shields.io/badge/NLTK-3.4.5-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 1. [ Demo ](#demo)
 2. [ Overview ](#overview)
@@ -27,7 +27,8 @@ As lockdowns have been imposed across the globe in response to the COVID-19 pand
 - Algorithms applied :
   * __Logistic Regression__
   * __MultinomialNaive Bayes__
-- The model is successfully built and has achieved the highest accuracy of __91.21%__ [ Link for the model ](#https://github.com/ayushkesh/Covid-19-Tweet-Classification/blob/master/covid-19%20tweeter.ipynb)
+- The model is successfully built and has achieved the highest accuracy of __91.21%__.
+#### Link for the model :__https://github.com/ayushkesh/Covid-19-Tweet-Classification/blob/master/covid-19%20tweeter.ipynb__
 
 ### Installation
 The Code is written in __Python 3.7.__ To install the required packages and libraries, run this command in the project directory after cloning the repository:
